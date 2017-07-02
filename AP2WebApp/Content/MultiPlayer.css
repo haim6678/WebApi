@@ -1,0 +1,22 @@
+
+img{
+    display: none;
+}
+body {
+    background-size: cover;
+}
+
+button{
+    display: block;
+    width: 100%;
+}
+
+.mazeCanvas{
+    background: #F8F8FF;
+    background-size: auto;
+    border: yellow;
+}
+#mazePlace {
+    width: 70%;
+    height: 500px; /*todo how to make responsive*/
+}
